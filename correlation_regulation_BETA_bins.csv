@@ -1,0 +1,76 @@
+,trait,cell_type,raw_p_value_bin_0,oddratio_0,raw_p_value_bin_1,oddratio_1,raw_p_value_bin_2,oddratio_2,raw_p_value_bin_3,oddratio_3,raw_p_value_bin_4,oddratio_4,raw_p_value_bin_5,oddratio_5,raw_p_value_bin_6,oddratio_6,raw_p_value_bin_7,oddratio_7,raw_p_value_bin_8,oddratio_8,raw_p_value_bin_9,oddratio_9,raw_p_value_bin_10,oddratio_10,spearman_r,spearman_p_value,global_spearman_fdr_p_value,global_spearman_significant,fdr_p_value_bin_0,significance_bin_0,fdr_p_value_bin_1,significance_bin_1,fdr_p_value_bin_2,significance_bin_2,fdr_p_value_bin_3,significance_bin_3,fdr_p_value_bin_4,significance_bin_4,fdr_p_value_bin_5,significance_bin_5,fdr_p_value_bin_6,significance_bin_6,fdr_p_value_bin_7,significance_bin_7,fdr_p_value_bin_8,significance_bin_8,fdr_p_value_bin_9,significance_bin_9,fdr_p_value_bin_10,significance_bin_10
+0,myocardial infraction,Cardiomyocyte_(CM),,,,,,,,,,,,,,,,,,,,,,,,,,,,False,,False,,False,,False,,False,,False,,False,,False,,False,,False,,False
+1,myocardial infraction,Endothelial_not_treated,,,,,,,,,,,,,,,,,,,,,,,,,,,,False,,False,,False,,False,,False,,False,,False,,False,,False,,False,,False
+2,Acne vulgaris,Keratinocytes,,,,,,,,,,,,,,,,,,,,,,,,,,,,False,,False,,False,,False,,False,,False,,False,,False,,False,,False,,False
+3,Acne vulgaris,Pooled_fibroblasts,,,,,,,,,,,,,,,,,,,,,,,,,,,,False,,False,,False,,False,,False,,False,,False,,False,,False,,False,,False
+4,Acne vulgaris,Pooled_epidermis,,,,,,,,,,,,,,,,,,,,,,,,,,,,False,,False,,False,,False,,False,,False,,False,,False,,False,,False,,False
+5,Acne vulgaris,HF_Sebocytes,,,,,,,,,,,,,,,,,,,,,,,,,,,,False,,False,,False,,False,,False,,False,,False,,False,,False,,False,,False
+6,Chronic sinusitis,9_Chondrocytes,,,,,,,,,,,,,,,,,,,,,,,,,,,,False,,False,,False,,False,,False,,False,,False,,False,,False,,False,,False
+7,Chronic sinusitis,Pooled_epidermis,,,,,,,,,,,,,,,,,,,,,,,,,,,,False,,False,,False,,False,,False,,False,,False,,False,,False,,False,,False
+8,Colon diverticulosis,Skeletal_myocyte_(SKM),,,,,,,,,,,,,,,,,,,,,,,,,,,,False,,False,,False,,False,,False,,False,,False,,False,,False,,False,,False
+9,Colon diverticulosis,Pooled_epidermis,,,,,,,,,,,,,,,,,,,,,,,,,,,,False,,False,,False,,False,,False,,False,,False,,False,,False,,False,,False
+10,Inguinal hernia,Pooled_fibroblasts,,,,,,,,,,,,,,,,,,,,,,,,,,,,False,,False,,False,,False,,False,,False,,False,,False,,False,,False,,False
+11,Psoriasis,Keratinocytes,,,,,,,,,,,,,,,,,,,,,,,,,,,,False,,False,,False,,False,,False,,False,,False,,False,,False,,False,,False
+12,Sleep apnea,Skeletal_myocyte_(SKM),,,,,,,,,,,,,,,,,,,,,,,,,,,,False,,False,,False,,False,,False,,False,,False,,False,,False,,False,,False
+13,Sleep apnea,Motor_neuron_(MN),,,,,,,,,,,,,,,,,,,,,,,,,,,,False,,False,,False,,False,,False,,False,,False,,False,,False,,False,,False
+14,Sleep apnea,Cortical_organoids_d50,,,,,,,,,,,,,,,,,,,,,,,,,,,,False,,False,,False,,False,,False,,False,,False,,False,,False,,False,,False
+15,Sleep apnea,Cortical_organoids_d100,,,,,,,,,,,,,,,,,,,,,,,,,,,,False,,False,,False,,False,,False,,False,,False,,False,,False,,False,,False
+16,Sleep apnea,Cortical_organoids_d150,,,,,,,,,,,,,,,,,,,,,,,,,,,,False,,False,,False,,False,,False,,False,,False,,False,,False,,False,,False
+17,Varicose veins,Endothelial_not_treated,,,,,,,,,,,,,,,,,,,,,,,,,,,,False,,False,,False,,False,,False,,False,,False,,False,,False,,False,,False
+18,Hemorrhoids,Endothelial_not_treated,,,,,,,,,,,,,,,,,,,,,,,,,,,,False,,False,,False,,False,,False,,False,,False,,False,,False,,False,,False
+19,Hemorrhoids,Pooled_fibroblasts,,,,,,,,,,,,,,,,,,,,,,,,,,,,False,,False,,False,,False,,False,,False,,False,,False,,False,,False,,False
+20,sudden infant death syndrome,Cortical_organoids_d50,,,,,,,,,,,,,,,,,,,,,,,,,,,,False,,False,,False,,False,,False,,False,,False,,False,,False,,False,,False
+21,sudden infant death syndrome,Cortical_organoids_d100,,,,,,,,,,,,,,,,,,,,,,,,,,,,False,,False,,False,,False,,False,,False,,False,,False,,False,,False,,False
+22,sudden infant death syndrome,Cortical_organoids_d150,,,,,,,,,,,,,,,,,,,,,,,,,,,,False,,False,,False,,False,,False,,False,,False,,False,,False,,False,,False
+23,Back Disorders,9_Chondrocytes,,,,,,,,,,,,,,,,,,,,,,,,,,,,False,,False,,False,,False,,False,,False,,False,,False,,False,,False,,False
+24,Back Disorders,Pooled_fibroblasts,,,,,,,,,,,,,,,,,,,,,,,,,,,,False,,False,,False,,False,,False,,False,,False,,False,,False,,False,,False
+25,Back Disorders,4_Prechondral_Mesenchyme,,,,,,,,,,,,,,,,,,,,,,,,,,,,False,,False,,False,,False,,False,,False,,False,,False,,False,,False,,False
+26,Back Disorders,8_Also_Prechondral_Mesenchyme,,,,,,,,,,,,,,,,,,,,,,,,,,,,False,,False,,False,,False,,False,,False,,False,,False,,False,,False,,False
+27,Alzheimer's Disease,Motor_neuron_(MN),0.03690661777168896,7.176753507014028,0.26120569901551927,2.048917401764234,,,0.18394476321581993,1.904149687195087,0.4184304213546353,1.6384923817161188,0.062377942236015414,4.101042502004812,0.7538192277989586,0.6813450760608487,,,0.7538192277989586,0.6813450760608487,0.7743183498258683,0.7300188797986155,,,-0.7784570702436182,0.022867333969736846,0.09146933587894739,False,0.6320281427674215,False,0.9232194894902354,False,,False,0.8277514344711897,False,0.9232194894902354,False,0.6320281427674215,False,0.9232194894902354,False,,False,0.9232194894902354,False,0.9232194894902354,False,,False
+28,Alzheimer's Disease,Cortical_organoids_d50,0.540490364905966,1.566293459045374,,,,,,,,,,,,,,,,,,,,,,,,,0.9232194894902354,False,,False,,False,,False,,False,,False,,False,,False,,False,,False,,False
+29,Alzheimer's Disease,Endothelial_not_treated,0.7268118745979291,0.6250527203711514,0.5406994939002465,1.5652449324324325,0.7268118745979291,0.6250527203711514,0.7864462317879782,1.2169412758766371,,,,,0.10977519670123553,0.2600126475548061,,,1.0,0.8933397683397684,1.0,1.0426160337552743,,,0.0,1.0,1.0,False,0.9232194894902354,False,0.9232194894902354,False,0.9232194894902354,False,0.9232194894902354,False,,False,,False,0.7409825777333399,False,,False,1.0,False,1.0,False,,False
+30,Alzheimer's Disease,Cortical_organoids_d100,,,,,,,,,,,,,,,,,,,,,,,,,,,,False,,False,,False,,False,,False,,False,,False,,False,,False,,False,,False
+31,Alzheimer's Disease,Cortical_organoids_d150,0.33466774570166924,2.0794889992902768,,,,,,,,,,,,,,,,,,,,,,,,,0.9232194894902354,False,,False,,False,,False,,False,,False,,False,,False,,False,,False,,False
+32,carcinoma,Pooled_epidermis,,,,,,,,,,,,,,,,,,,,,,,,,,,,False,,False,,False,,False,,False,,False,,False,,False,,False,,False,,False
+33,carcinoma,Hepatocyte_Progenitor_(HP),,,1.0,0.9930209371884346,,,0.5484796704455619,1.7395209580838322,,,0.7528919408535586,0.7941508806912596,,,,,,,,,0.3975972500339664,0.7786215790227826,-0.7999999999999999,0.20000000000000007,0.40000000000000013,False,,False,1.0,False,,False,0.9232194894902354,False,,False,0.9232194894902354,False,,False,,False,,False,,False,0.9232194894902354,False
+34,carcinoma,Pancreatic_progenitor_(PP),,,0.07022534919638015,0.14521374369609275,0.5036823222529471,1.6986014756084131,,,,,0.5076556088547575,0.5087487619676461,0.7538081899700675,0.6785557023337737,,,,,,,0.15992884041649408,0.6548001542218224,0.3,0.6238376647810728,0.8317835530414305,False,,False,0.6320281427674215,False,0.9232194894902354,False,,False,,False,0.9232194894902354,False,0.9232194894902354,False,,False,,False,,False,0.8277514344711897,False
+35,Muscular dystrophy,Skeletal_myocyte_(SKM),,,,,,,,,,,,,,,,,,,,,,,,,,,,False,,False,,False,,False,,False,,False,,False,,False,,False,,False,,False
+36,Muscular dystrophy,Cardiomyocyte_(CM),1.0,0.9592985450703081,,,,,,,,,,,,,,,,,,,,,,,,,1.0,False,,False,,False,,False,,False,,False,,False,,False,,False,,False,,False
+37,Preeclampsia,Endothelial_not_treated,,,,,,,,,,,,,,,,,,,,,,,,,,,,False,,False,,False,,False,,False,,False,,False,,False,,False,,False,,False
+38,Preeclampsia,iPSCs,,,,,,,,,,,,,,,,,,,,,,,,,,,,False,,False,,False,,False,,False,,False,,False,,False,,False,,False,,False
+39,Preeclampsia,Hepatocyte_Progenitor_(HP),,,,,,,,,,,,,,,,,,,,,,,,,,,,False,,False,,False,,False,,False,,False,,False,,False,,False,,False,,False
+40,Gout,Endothelial_not_treated,,,,,,,,,,,,,,,,,,,,,,,,,,,,False,,False,,False,,False,,False,,False,,False,,False,,False,,False,,False
+41,Morning sickness,iPSCs,,,,,,,,,,,,,,,,,,,,,,,,,,,,False,,False,,False,,False,,False,,False,,False,,False,,False,,False,,False
+42,Morning sickness,Cortical_organoids_d50,,,,,,,,,,,,,,,,,,,,,,,,,,,,False,,False,,False,,False,,False,,False,,False,,False,,False,,False,,False
+43,Morning sickness,Cortical_organoids_d100,,,,,,,,,,,,,,,,,,,,,,,,,,,,False,,False,,False,,False,,False,,False,,False,,False,,False,,False,,False
+44,Morning sickness,Cortical_organoids_d150,,,,,,,,,,,,,,,,,,,,,,,,,,,,False,,False,,False,,False,,False,,False,,False,,False,,False,,False,,False
+45,Scoliosis,Skeletal_myocyte_(SKM),,,,,,,,,,,,,,,,,,,,,,,,,,,,False,,False,,False,,False,,False,,False,,False,,False,,False,,False,,False
+46,Scoliosis,9_Chondrocytes,,,,,,,,,,,,,,,,,,,,,,,,,,,,False,,False,,False,,False,,False,,False,,False,,False,,False,,False,,False
+47,Scoliosis,CNCCs,,,,,,,,,,,,,,,,,,,,,,,,,,,,False,,False,,False,,False,,False,,False,,False,,False,,False,,False,,False
+48,Scoliosis,4_Prechondral_Mesenchyme,,,,,,,,,,,,,,,,,,,,,,,,,,,,False,,False,,False,,False,,False,,False,,False,,False,,False,,False,,False
+49,Scoliosis,8_Also_Prechondral_Mesenchyme,,,,,,,,,,,,,,,,,,,,,,,,,,,,False,,False,,False,,False,,False,,False,,False,,False,,False,,False,,False
+50,aneurysm,Pooled_fibroblasts,,,,,,,,,,,,,,,,,,,,,,,,,,,,False,,False,,False,,False,,False,,False,,False,,False,,False,,False,,False
+51,aneurysm,Endothelial_not_treated,,,,,,,,,,,,,,,,,,,,,,,,,,,,False,,False,,False,,False,,False,,False,,False,,False,,False,,False,,False
+52,Bronchial asthma,Skeletal_myocyte_(SKM),,,,,,,,,,,,,,,,,,,,,,,,,,,,False,,False,,False,,False,,False,,False,,False,,False,,False,,False,,False
+53,Bronchial asthma,Pooled_epidermis,,,,,,,,,,,,,,,,,,,,,,,,,,,,False,,False,,False,,False,,False,,False,,False,,False,,False,,False,,False
+54,Bipolar disorder,Cortical_organoids_d50,,,,,,,,,,,,,,,,,,,,,,,,,,,,False,,False,,False,,False,,False,,False,,False,,False,,False,,False,,False
+55,Bipolar disorder,Pancreatic_progenitor_(PP),,,,,,,,,,,,,,,,,,,,,,,,,,,,False,,False,,False,,False,,False,,False,,False,,False,,False,,False,,False
+56,Bipolar disorder,Cortical_organoids_d100,,,,,,,,,,,,,,,,,,,,,,,,,,,,False,,False,,False,,False,,False,,False,,False,,False,,False,,False,,False
+57,Bipolar disorder,Cortical_organoids_d150,,,,,,,,,,,,,,,,,,,,,,,,,,,,False,,False,,False,,False,,False,,False,,False,,False,,False,,False,,False
+58,Schizophrenia,Cortical_organoids_d50,,,,,,,,,,,,,,,,,,,,,,,,,,,,False,,False,,False,,False,,False,,False,,False,,False,,False,,False,,False
+59,Schizophrenia,Cortical_organoids_d100,,,,,,,,,,,,,,,,,,,,,,,,,,,,False,,False,,False,,False,,False,,False,,False,,False,,False,,False,,False
+60,Schizophrenia,Cortical_organoids_d150,,,,,,,,,,,,,,,,,,,,,,,,,,,,False,,False,,False,,False,,False,,False,,False,,False,,False,,False,,False
+61,Ovarian polycystic syndrome (PCOS),Skeletal_myocyte_(SKM),,,,,,,,,,,,,,,,,,,,,,,,,,,,False,,False,,False,,False,,False,,False,,False,,False,,False,,False,,False
+62,Ovarian polycystic syndrome (PCOS),Cortical_organoids_d50,,,,,,,,,,,,,,,,,,,,,,,,,,,,False,,False,,False,,False,,False,,False,,False,,False,,False,,False,,False
+63,Ovarian polycystic syndrome (PCOS),Cortical_organoids_d100,,,,,,,,,,,,,,,,,,,,,,,,,,,,False,,False,,False,,False,,False,,False,,False,,False,,False,,False,,False
+64,Ovarian polycystic syndrome (PCOS),Cortical_organoids_d150,,,,,,,,,,,,,,,,,,,,,,,,,,,,False,,False,,False,,False,,False,,False,,False,,False,,False,,False,,False
+65,premature birth,iPSCs,,,,,,,,,,,,,,,,,,,,,,,,,,,,False,,False,,False,,False,,False,,False,,False,,False,,False,,False,,False
+66,iron deficiency,Pooled_epidermis,,,,,,,,,,,,,,,,,,,,,,,,,,,,False,,False,,False,,False,,False,,False,,False,,False,,False,,False,,False
+67,Frailty,Skeletal_myocyte_(SKM),,,,,,,,,,,,,,,,,,,,,,,,,,,,False,,False,,False,,False,,False,,False,,False,,False,,False,,False,,False
+68,Osteoarthritis,9_Chondrocytes,,,,,,,,,,,,,,,,,,,,,,,,,,,,False,,False,,False,,False,,False,,False,,False,,False,,False,,False,,False
+69,Osteoarthritis,Pooled_fibroblasts,,,,,,,,,,,,,,,,,,,,,,,,,,,,False,,False,,False,,False,,False,,False,,False,,False,,False,,False,,False
+70,Osteoarthritis,4_Prechondral_Mesenchyme,,,,,,,,,,,,,,,,,,,,,,,,,,,,False,,False,,False,,False,,False,,False,,False,,False,,False,,False,,False
+71,Osteoarthritis,8_Also_Prechondral_Mesenchyme,,,,,,,,,,,,,,,,,,,,,,,,,,,,False,,False,,False,,False,,False,,False,,False,,False,,False,,False,,False
+72,Osteoporosis,9_Chondrocytes,,,,,,,,,,,,,,,,,,,,,,,,,,,,False,,False,,False,,False,,False,,False,,False,,False,,False,,False,,False
+73,Osteoporosis,4_Prechondral_Mesenchyme,,,,,,,,,,,,,,,,,,,,,,,,,,,,False,,False,,False,,False,,False,,False,,False,,False,,False,,False,,False
+74,Osteoporosis,8_Also_Prechondral_Mesenchyme,,,,,,,,,,,,,,,,,,,,,,,,,,,,False,,False,,False,,False,,False,,False,,False,,False,,False,,False,,False
