@@ -59,5 +59,8 @@ barplots_ASE_with_regulation_direction: Stacked barplots for up/down regulation 
 lfc_or_plots_per_threshold: Spearman correlation between bins of fisher's tests for all celltypes and diseases
 schizophernia_correlations: Spearman Correlations for Schizophernia cells only + densities of ASE types + manwhitney test between low and high count groups
 scoliosis_correlations: Spearman Correlations for scoliosis only + densities of ASE types.
+joint_gene_list_per_trait.csv/pkl: A joint list of all the genes post filtration.
+correlation_LFC_nonabsolute....csv: summary tables for the correlations tests for LFC of schizophrenia/scoliosis genes (contains bin edges, pvalues, confidence inteval ranges, etc)
+correlation_LFC_absolute....csv summary tables for the correlations tests for **absolute value LFC** of schizophrenia/scoliosis genes (contains bin edges, pvalues, confidence inteval ranges, etc)
  ```
 
